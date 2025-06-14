@@ -33,4 +33,8 @@ While this journey is primarily theoretical, contextual implementations may refe
 This is an ongoing effort, and new content will be added incrementally. Feedback, collaboration, or suggestions are always welcome!
 
 ---
+## 📝 About the Notes
+
+The original notes documented in this repository were taken in a highly concise format while watching the **System Design 2.0** series by *Jordan Has No Life*. 
+
 
