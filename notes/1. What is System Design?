@@ -35,6 +35,7 @@ Storing data directly on an application server (i.e., in files on a virtual mach
 4. **Scalability Challenges**
 - Application servers are already a bottleneck under heavy request loads.
 - Adding file I/O duties to them exacerbates latency and negatively impacts overall system performance.
+
 **Insight:** Application servers should **not be burdened** with data persistence responsibilities in scalable architectures.
 
 
