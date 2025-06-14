@@ -41,6 +41,6 @@ To enhance clarity, depth, and educational value, the notes have been **elaborat
 - Professional formatting and terminology.
 - Better alignment with scalable system design best practices.
 
-These elaborations are intended to support personal learning and are not direct transcripts of the source content.
+> These elaborations are intended to support personal learning and are not direct transcripts of the source content.
 
 
