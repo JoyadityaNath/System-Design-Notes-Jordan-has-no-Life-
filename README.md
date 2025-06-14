@@ -11,9 +11,9 @@ The primary objective of this repository is to:
 - Create a comprehensive knowledge base that can serve as a future reference or learning tool.
 
 ## 🎓 Learning Resource
-The insights and notes shared here are curated from the [**Jordan Has No Life**]() YouTube channel, which provides a pragmatic and well-articulated series on system design fundamentals and real-world architecture scenarios.
+The insights and notes shared here are curated from the [**Jordan Has No Life**](https://www.youtube.com/@jordanhasnolife5163/playlists) YouTube channel, which provides a pragmatic and well-articulated series on system design fundamentals and real-world architecture scenarios.
 
-> **Disclaimer:** All credit for original content goes to the creator, [Jordan Has No Life]()
+> **Disclaimer:** All credit for original content goes to the creator, [Jordan Has No Life](https://www.youtube.com/@jordanhasnolife5163/playlists)
 
 ## 📁 Repository Structure
 - `notes/` — Contains structured markdown notes organized by topic/episode.
