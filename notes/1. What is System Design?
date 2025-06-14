@@ -51,6 +51,14 @@ But One Database Isn’t Enough...
 - While a single DB instance improves data management, it's still a **single point of failure** and a **scalability bottleneck**.
 - Modern system design requires distributed storage architectures, replication, sharding, and redundancy strategies.
 
+## Summary
+
+This video lays the groundwork for the system design series by explaining:
+- The shortcomings of storing data on application servers.
+- The importance of dedicated, scalable storage systems (i.e., databases).
+- The broader architectural need for robust data handling strategies—serving as the core motivation for the entire series.
+
+
 
 
 
