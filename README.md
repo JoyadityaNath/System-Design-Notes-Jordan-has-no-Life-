@@ -5,3 +5,4 @@ Welcome to my repository documenting my learning journey in **System Design**. T
 
 ## 📌 Objective
 The primary objective of this repository is to:
+- Chronicle my progress as I explore key system design concepts.
