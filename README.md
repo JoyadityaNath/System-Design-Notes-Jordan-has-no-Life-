@@ -1,3 +1,4 @@
+
 # System-Design-Notes
 ## 🚀 System Design Learning Journey
 
@@ -13,4 +14,6 @@ The primary objective of this repository is to:
 The insights and notes shared here are curated from the [**Jordan Has No Life**]() YouTube channel, which provides a pragmatic and well-articulated series on system design fundamentals and real-world architecture scenarios.
 
 > **Disclaimer:** All credit for original content goes to the creator, [Jordan Has No Life]()
+
+## 📁 Repository Structure
 
