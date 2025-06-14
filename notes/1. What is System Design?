@@ -16,3 +16,6 @@ This section captures key insights from the first video in the *System Design* s
 - Data stored in RAM is erased when the system is powered off or restarted.
 - Suitable for short-term, high-speed data access during computation but **not viable** for long-term storage.
 
+**Conclusion:** For persistent data needs—like user information, configurations, or logs—**HDD/SSD-based storage** solutions are required.
+
+
