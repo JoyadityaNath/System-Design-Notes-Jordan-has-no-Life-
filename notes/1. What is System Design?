@@ -17,5 +17,8 @@ This section captures key insights from the first video in the *System Design* s
 - Suitable for short-term, high-speed data access during computation but **not viable** for long-term storage.
 
 **Conclusion:** For persistent data needs—like user information, configurations, or logs—**HDD/SSD-based storage** solutions are required.
+ 
+Why Not Store Data on Application Servers?
+Storing data directly on an application server (i.e., in files on a virtual machine) introduces several issues:
 
 
