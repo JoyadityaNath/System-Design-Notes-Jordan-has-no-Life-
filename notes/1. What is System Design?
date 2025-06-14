@@ -45,6 +45,7 @@ Storing data directly on an application server (i.e., in files on a virtual mach
   - Support concurrent access safely.
   - Provide transactional guarantees (ACID properties).
   - Scale more predictably under load.
+The database becomes the **central data store** that the application can reliably interact with.
 
 
 
