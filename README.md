@@ -19,3 +19,18 @@ The insights and notes shared here are curated from the [**Jordan Has No Life**]
 - `notes/` — Contains structured markdown notes organized by topic/episode.
 -  `diagrams/` — (Optional) Visual aids and architectural diagrams.
 
+## 🛠️ Tech Stack Context
+
+While this journey is primarily theoretical, contextual implementations may reference:
+- Cloud platforms (AWS, GCP)
+- Load balancing and caching mechanisms
+- Microservices and container orchestration
+- Databases (SQL/NoSQL)
+- Message queues and event-driven systems
+
+## ✅ Commit to Consistency
+
+This is an ongoing effort, and new content will be added incrementally. Feedback, collaboration, or suggestions are always welcome!
+
+---
+
