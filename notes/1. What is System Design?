@@ -47,6 +47,11 @@ Storing data directly on an application server (i.e., in files on a virtual mach
   - Scale more predictably under load.
 The database becomes the **central data store** that the application can reliably interact with.
 
+But One Database Isn’t Enough...
+- While a single DB instance improves data management, it's still a **single point of failure** and a **scalability bottleneck**.
+- Modern system design requires distributed storage architectures, replication, sharding, and redundancy strategies.
+
+
 
 
 
