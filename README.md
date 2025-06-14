@@ -17,4 +17,5 @@ The insights and notes shared here are curated from the [**Jordan Has No Life**]
 
 ## 📁 Repository Structure
 - `notes/` — Contains structured markdown notes organized by topic/episode.
+-  `diagrams/` — (Optional) Visual aids and architectural diagrams.
 
