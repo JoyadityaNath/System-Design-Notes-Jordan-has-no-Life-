@@ -20,5 +20,8 @@ This section captures key insights from the first video in the *System Design* s
  
 Why Not Store Data on Application Servers?
 Storing data directly on an application server (i.e., in files on a virtual machine) introduces several issues:
+1. **Operating System and Resource Complexity**
+- Application servers handle numerous responsibilities (e.g., OS tasks, serving user requests, memory management).
+- Adding data storage responsibilities increases resource contention and operational complexity.
 
 
