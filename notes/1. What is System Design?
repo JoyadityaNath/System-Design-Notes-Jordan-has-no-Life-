@@ -32,6 +32,10 @@ Storing data directly on an application server (i.e., in files on a virtual mach
 - Merging application logic and data management on a single server breaks modularity.
 - Violates the **Separation of Concerns (SoC)** principle, making the system harder to scale, debug, and maintain.
 
+4. **Scalability Challenges**
+- Application servers are already a bottleneck under heavy request loads.
+- Adding file I/O duties to them exacerbates latency and negatively impacts overall system performance.
+
 
 
 
