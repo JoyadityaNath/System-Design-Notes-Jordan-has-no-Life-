@@ -3,3 +3,9 @@
 This section captures key insights from the first video in the *System Design* series by **Jordan Has No Life**, focusing on data storage fundamentals and the motivation for using dedicated data storage systems in scalable architectures.
 
 ---
+## 🔸 Types of Storage
+
+### 1. **HDD/SSD (Persistent Storage)**
+- Hard Disk Drives (HDDs) and Solid State Drives (SSDs) are **persistent** forms of storage.
+- Data remains intact until explicitly deleted or the hardware fails.
+- Ideal for storing application-critical data that needs to persist beyond program execution or system reboots.
