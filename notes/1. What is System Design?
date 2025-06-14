@@ -28,5 +28,10 @@ Storing data directly on an application server (i.e., in files on a virtual mach
 - File-based storage is inefficient for handling concurrent read/write operations from multiple clients.
 - Lack of built-in concurrency control mechanisms leads to potential data corruption or access conflicts.
 
+3. **No Separation of Concerns**
+- Merging application logic and data management on a single server breaks modularity.
+- Violates the **Separation of Concerns (SoC)** principle, making the system harder to scale, debug, and maintain.
+
+
 
 
