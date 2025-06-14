@@ -16,4 +16,5 @@ The insights and notes shared here are curated from the [**Jordan Has No Life**]
 > **Disclaimer:** All credit for original content goes to the creator, [Jordan Has No Life]()
 
 ## 📁 Repository Structure
+- `notes/` — Contains structured markdown notes organized by topic/episode.
 
