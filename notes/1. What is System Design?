@@ -38,6 +38,14 @@ Storing data directly on an application server (i.e., in files on a virtual mach
 
 **Insight:** Application servers should **not be burdened** with data persistence responsibilities in scalable architectures.
 
+ Why Use a Database (DB)?
+- A **Database** is a dedicated service or server optimized for data storage, retrieval, and management.
+- Unlike raw file storage, databases:
+  - Handle structured querying.
+  - Support concurrent access safely.
+  - Provide transactional guarantees (ACID properties).
+  - Scale more predictably under load.
+
 
 
 
