@@ -24,4 +24,9 @@ Storing data directly on an application server (i.e., in files on a virtual mach
 - Application servers handle numerous responsibilities (e.g., OS tasks, serving user requests, memory management).
 - Adding data storage responsibilities increases resource contention and operational complexity.
 
+ 2. **Poor Support for Concurrent Clients**
+- File-based storage is inefficient for handling concurrent read/write operations from multiple clients.
+- Lack of built-in concurrency control mechanisms leads to potential data corruption or access conflicts.
+
+
 
