@@ -36,5 +36,6 @@ This is an ongoing effort, and new content will be added incrementally. Feedback
 ## 📝 About the Notes
 
 The original notes documented in this repository were taken in a highly concise format while watching the **System Design 2.0** series by *Jordan Has No Life*. 
+To enhance clarity, depth, and educational value, the notes have been **elaborated and formalized** using **Large Language Models (LLMs)**, ensuring:
 
 
